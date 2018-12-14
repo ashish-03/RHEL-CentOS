@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Please get only pages/files end with .md. Thanks!
+
+## Welcome to GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/ashish-03/rhel-centos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
