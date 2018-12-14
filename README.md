@@ -1,4 +1,4 @@
-# Please get only pages/files end with .md. Thanks!
+# Please get only pages/files end with *.md* Thanks!
 
 ## Welcome to GitHub Pages 
 
