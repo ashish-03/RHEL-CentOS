@@ -52,5 +52,5 @@ If it shows any error please find below link:
 
 [rhel-centos/Fix grub2-mkconfig-syntax-error.md](https://github.com/ashish-03/rhel-centos/commit/9b6e5d8fe952dfa80d864874ca9f700abb7c2302)
       
-#### Thanks
+#### Thanks!
 **Ashish Kr**
